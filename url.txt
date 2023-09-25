@@ -1,3 +1,3 @@
 http/backend.course/zhymas
-http/backend.course/?name='ÐÐ¼Ð¸ÑÑÐ¾'&github_name=zhymas&group='Ð¤ÐÐ-25'&subgroup='ÐÑÐ´Ð³ÑÑÐ¿Ð° 1'
+http://backend.course/?name=%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE&github_name=zhymas&group=%D0%A4%D0%95%D0%86-25&subgroup=%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201
 https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?date=20220302&json
