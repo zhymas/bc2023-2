@@ -1,1 +1,2 @@
 http/backend.course/zhymas
+http/backend.course/?name='ÐÐ¼Ð¸ÑÑÐ¾'&github_name=zhymas&group='Ð¤ÐÐ-25'&subgroup='ÐÑÐ´Ð³ÑÑÐ¿Ð° 1'
